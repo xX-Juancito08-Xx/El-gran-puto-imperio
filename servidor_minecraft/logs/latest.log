@@ -1,0 +1,253 @@
+[19Feb2025 23:57:16.182] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[19Feb2025 23:57:16.187] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[19Feb2025 23:57:16.299] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/El-gran-puto-imperio/servidor_minecraft/config/fml.toml is not correct. Correcting
+[19Feb2025 23:57:16.301] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[19Feb2025 23:57:16.302] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[19Feb2025 23:57:16.303] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[19Feb2025 23:57:16.304] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[19Feb2025 23:57:17.358] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19Feb2025 23:57:17.425] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/El-gran-puto-imperio/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[19Feb2025 23:57:17.996] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/El-gran-puto-imperio/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[19Feb2025 23:57:18.000] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/El-gran-puto-imperio/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Feb2025 23:57:18.001] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/El-gran-puto-imperio/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Feb2025 23:57:18.004] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/El-gran-puto-imperio/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Feb2025 23:57:18.500] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[19Feb2025 23:57:18.502] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[19Feb2025 23:57:23.720] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Feb2025 23:57:24.164] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19Feb2025 23:57:24.794] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 111 options available, 3 override(s) found
+[19Feb2025 23:57:25.126] [main/INFO] [Puzzles Lib/]: Loading 65 mods:
+	- aether 1.20.1-1.5.2-neoforge
+		|-- cumulus_menus 1.20.1-1.0.1-neoforge
+		|-- curios 5.6.1+1.20.1
+		\-- nitrogen_internals 1.20.1-1.0.12-neoforge
+	- alexsmobs 1.22.9
+	- appleskin 2.5.1+mc1.20.1
+	- betteradvancements 0.4.2.10
+	- betterdungeons 1.20-Forge-4.0.4
+	- betterfortresses 1.20-Forge-2.0.6
+	- bettermineshafts 1.20-Forge-4.0.4
+	- bettervillage 3.2.0
+	- biomesoplenty 19.0.0.94
+	- caelus 3.2.0+1.20.1
+	- carryon 2.1.2.7
+	- cfm 7.0.0-pre36
+	- citadel 2.6.1
+	- clumps 12.0.0.4
+	- collective 7.92
+	- comforts 6.4.0+1.20.1
+	- corpse 1.20.1-1.0.20
+	- create 0.5.1.j
+		\-- flywheel 0.6.11-13
+	- createaddition 1.20.1-1.2.5
+	- creativecore 2.12.31
+	- dungeons_arise 2.1.58-1.20.x
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- farmersdelight 1.20.1-1.2.6
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- geckolib 4.7
+	- glitchcore 0.0.1.1
+	- immediatelyfast 1.3.4+1.20.4
+		\-- mixinextras 0.4.1
+	- immersive_armors 1.6.1+1.20.1
+	- infinitetrading 4.6
+	- irons_spellbooks 1.20.1-3.4.0.7
+	- jade 11.12.3+forge
+	- jei 15.20.0.106
+	- libraryferret 4.0.0
+	- minecraft 1.20.1
+	- mowziesmobs 1.7.0
+	- oculus 1.8.0
+	- origins 1.20.1-1.10.0.9
+		|-- additionalentityattributes 1.4.0.5+1.20.1
+		|-- apoli 1.20.1-2.9.0.8
+		\-- calio 1.20.1-1.11.0.5
+	- playeranimator 1.0.2-rc1+1.20
+	- playerrevive 2.0.31
+	- polymorph 0.49.8+1.20.1
+		\-- spectrelib 0.13.17+1.20.1
+	- pots_and_mimics 1.0.2
+	- puzzleslib 8.1.25
+		\-- puzzlesaccessapi 8.0.7
+	- simpleplanes 1.20.1-5.3.3
+	- sophisticatedbackpacks 3.23.5.1200
+	- sophisticatedcore 1.2.14.875
+	- terrablender 3.0.1.7
+	- universalbonemeal 8.0.1
+	- vampirism 1.10.12
+		\-- teamlapenlib 1.10.12
+	- visuality 2.0.2
+	- waterframes 2.1.11
+	- watermedia 2.1.18
+	- xaerominimap 25.0.0
+	- xaeroworldmap 1.39.2
+	- yungsapi 1.20-Forge-4.0.6
+[19Feb2025 23:57:25.141] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Feb2025 23:57:28.397] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19Feb2025 23:57:38.971] [main/WARN] [mixin/]: Method overwrite conflict for getHiddenEffect in vampirism.mixins.json:MixinMobEffectInstance, previously written by io.github.apace100.apoli.mixin.StatusEffectInstanceMixin. Skipping method.
+[19Feb2025 23:57:40.709] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: ##############################  ILLEGAL ENVIRONMENT  ######################################
+[19Feb2025 23:57:40.721] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: WATERMeDIA is not designed to work on server-side, please remove it from server and keep it on client
+[19Feb2025 23:57:40.721] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: Dependent mods can work without WATERMeDIA ON SERVERS, remember keep the mod ONLY ON CLIENT-SIDE
+[19Feb2025 23:57:40.721] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: if dependent mods throws exceptions ON SERVER asking for WATERMeDIA, report it to the creators
+[19Feb2025 23:57:40.721] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: ##############################  ILLEGAL ENVIRONMENT  ######################################
+[19Feb2025 23:57:40.721] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: watermedia, class org.watermedia.loaders.ForgeLoader
+java.lang.RuntimeException: Failed starting WATERMeDIA for Forge: WATERMeDIA CANNOT be installed YET on SERVER-SIDE. Please remove WATERMeDIA from the server, and keep it on client
+	at org.watermedia.loaders.ForgeLoader.<init>(ForgeLoader.java:52) ~[watermedia-2.1.18.jar%23201!/:2.1.18]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23211!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23210!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: org.watermedia.core.exceptions.IllegalEnvironmentException: WATERMeDIA CANNOT be installed YET on SERVER-SIDE. Please remove WATERMeDIA from the server, and keep it on client
+	at org.watermedia.loaders.ForgeLoader.<init>(ForgeLoader.java:50) ~[watermedia-2.1.18.jar%23201!/:2.1.18]
+	... 14 more
+[19Feb2025 23:57:41.175] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalbonemeal:main
+[19Feb2025 23:57:41.333] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/El-gran-puto-imperio/servidor_minecraft/config/libraryferret_1.properties created and initialized with default value
+[19Feb2025 23:57:41.334] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[19Feb2025 23:57:41.362] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[19Feb2025 23:57:42.108] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[19Feb2025 23:57:42.465] [modloading-worker-0/INFO] [betterfortresses/]: Creating directory for additional Better Nether Fortresses configuration at /workspaces/El-gran-puto-imperio/servidor_minecraft/config/betterfortresses/forge-1_20
+[19Feb2025 23:57:42.532] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[19Feb2025 23:57:42.532] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[19Feb2025 23:57:43.078] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[19Feb2025 23:57:43.128] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[19Feb2025 23:57:43.637] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[19Feb2025 23:57:43.638] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: oculus, class net.irisshaders.iris.Iris
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredConstructors(Class.java:3373) ~[?:?]
+	at java.lang.Class.getConstructor0(Class.java:3578) ~[?:?]
+	at java.lang.Class.getDeclaredConstructor(Class.java:2754) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.7.jar%23211!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.7.jar%23210!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[19Feb2025 23:57:43.671] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.92.
+[19Feb2025 23:57:44.682] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Welcome! /workspaces/El-gran-puto-imperio/servidor_minecraft/config/bettervillage_1.properties created and initialized with default value
+[19Feb2025 23:57:44.693] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[19Feb2025 23:57:45.223] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/El-gran-puto-imperio/servidor_minecraft/config/appleskin-client.toml is not correct. Correcting
+[19Feb2025 23:57:45.236] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:45.237] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesInTooltip was corrected from null to its default, true. 
+[19Feb2025 23:57:45.238] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesInTooltipAlways was corrected from null to its default, true. 
+[19Feb2025 23:57:45.245] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showSaturationHudOverlay was corrected from null to its default, true. 
+[19Feb2025 23:57:45.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesHudOverlay was corrected from null to its default, true. 
+[19Feb2025 23:57:45.246] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodValuesHudOverlayWhenOffhand was corrected from null to its default, true. 
+[19Feb2025 23:57:45.247] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodExhaustionHudUnderlay was corrected from null to its default, true. 
+[19Feb2025 23:57:45.250] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodStatsInDebugOverlay was corrected from null to its default, true. 
+[19Feb2025 23:57:45.250] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showFoodHealthHudOverlay was corrected from null to its default, true. 
+[19Feb2025 23:57:45.251] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.showVanillaAnimationsOverlay was corrected from null to its default, true. 
+[19Feb2025 23:57:45.253] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.maxHudOverlayFlashAlpha was corrected from null to its default, 0.65. 
+[19Feb2025 23:57:46.940] [modloading-worker-0/WARN] [Visuality/]: Visuality is installed on a dedicated server, skip loading...
+[19Feb2025 23:57:46.988] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[19Feb2025 23:57:47.197] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/El-gran-puto-imperio/servidor_minecraft/config/createaddition-common.toml is not correct. Correcting
+[19Feb2025 23:57:47.198] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.198] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.fe_at_max_rpm was corrected from null to its default, 480. 
+[19Feb2025 23:57:47.198] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.max_stress was corrected from null to its default, 16384. 
+[19Feb2025 23:57:47.199] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.audio_enabled was corrected from null to its default, true. 
+[19Feb2025 23:57:47.199] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.200] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor.motor_rpm_range was corrected from null to its default, 256. 
+[19Feb2025 23:57:47.200] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor.motor_min_consumption was corrected from null to its default, 8. 
+[19Feb2025 23:57:47.200] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor.motor_max_input was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.201] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor.motor_capacity was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.203] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key alternator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.203] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key alternator.generator_max_output was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.204] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key alternator.generator_capacity was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.205] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key alternator.generator_efficiency was corrected from null to its default, 0.75. 
+[19Feb2025 23:57:47.209] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rolling_mill was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.210] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rolling_mill.rolling_mill_processing_duration was corrected from null to its default, 120. 
+[19Feb2025 23:57:47.210] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rolling_mill.rolling_mill_stress was corrected from null to its default, 8. 
+[19Feb2025 23:57:47.215] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.215] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.small_connector_max_input was corrected from null to its default, 1000. 
+[19Feb2025 23:57:47.216] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.small_connector_max_output was corrected from null to its default, 1000. 
+[19Feb2025 23:57:47.216] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.small_connector_wire_length was corrected from null to its default, 16. 
+[19Feb2025 23:57:47.218] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.small_light_connector_consumption was corrected from null to its default, 1. 
+[19Feb2025 23:57:47.219] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.large_connector_max_input was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.219] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.large_connector_max_output was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.219] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.large_connector_wire_length was corrected from null to its default, 32. 
+[19Feb2025 23:57:47.219] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.connector_ignore_face_check was corrected from null to its default, true. 
+[19Feb2025 23:57:47.219] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.connector_allow_passive_io was corrected from null to its default, true. 
+[19Feb2025 23:57:47.223] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.223] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_max_input was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.224] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_max_output was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.224] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_capacity was corrected from null to its default, 2000000. 
+[19Feb2025 23:57:47.225] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_max_height was corrected from null to its default, 5. 
+[19Feb2025 23:57:47.226] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_max_width was corrected from null to its default, 3. 
+[19Feb2025 23:57:47.231] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key portable_energy_interface was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.231] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key portable_energy_interface.pei_max_input was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.231] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key portable_energy_interface.pei_max_output was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.235] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.235] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_max_input was corrected from null to its default, 10000. 
+[19Feb2025 23:57:47.236] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_charge_rate was corrected from null to its default, 5000. 
+[19Feb2025 23:57:47.236] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_recipe_charge_rate was corrected from null to its default, 2000. 
+[19Feb2025 23:57:47.241] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_capacity was corrected from null to its default, 40000. 
+[19Feb2025 23:57:47.241] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_hurt_energy_required was corrected from null to its default, 1000. 
+[19Feb2025 23:57:47.241] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_hurt_range was corrected from null to its default, 3. 
+[19Feb2025 23:57:47.242] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_hurt_mob was corrected from null to its default, 3. 
+[19Feb2025 23:57:47.242] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_effect_time_mob was corrected from null to its default, 20. 
+[19Feb2025 23:57:47.242] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_hurt_player was corrected from null to its default, 2. 
+[19Feb2025 23:57:47.242] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_effect_time_player was corrected from null to its default, 20. 
+[19Feb2025 23:57:47.242] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_fire_cooldown was corrected from null to its default, 20. 
+[19Feb2025 23:57:47.249] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[19Feb2025 23:57:47.249] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.diamond_grit_sandpaper_uses was corrected from null to its default, 1024. 
+[19Feb2025 23:57:47.250] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.barbed_wire_damage was corrected from null to its default, 2.0. 
+[19Feb2025 23:57:47.401] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 2 errors found
+[19Feb2025 23:57:47.514] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID f8470ce0-e7b5-4183-a19c-7bafa5b2e2e6
+[19Feb2025 23:57:47.517] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-02-19_23.57.47-fml.txt
+[19Feb2025 23:57:47.536] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e4dbc8b1-e7ae-4e02-9060-33e2911a9c28
+[19Feb2025 23:57:47.553] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
+	WaterMedia (watermedia) has failed to load correctly
+§7java.lang.RuntimeException: Failed starting WATERMeDIA for Forge: WATERMeDIA CANNOT be installed YET on SERVER-SIDE. Please remove WATERMeDIA from the server, and keep it on client,
+	Oculus (oculus) has failed to load correctly
+§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:246) ~[fmlcore-1.20.1-47.3.7.jar%23210!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23210!/:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.7.jar%23210!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23210!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23210!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.7-universal.jar%23214!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
