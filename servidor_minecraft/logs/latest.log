@@ -387,3 +387,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [20Feb2025 02:13:27.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/2244, l='ServerLevel[world]', x=-997.50, y=41.00, z=74.70] died: Unlicensed Alchemist was slain by itstomii_
 [20Feb2025 02:14:43.491] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/84, l='ServerLevel[world]', x=-959.63, y=62.53, z=51.18] died, message: 'Butcher was impaled by Drowned'
 [20Feb2025 02:14:49.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/128, l='ServerLevel[world]', x=-953.92, y=62.51, z=49.26] died, message: 'Unemployed was impaled by Drowned'
+[20Feb2025 02:18:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 has made the advancement [Magery]
+[20Feb2025 02:19:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 has made the advancement [Bloody Stream]
+[20Feb2025 02:20:00.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/134, l='ServerLevel[world]', x=-948.66, y=63.00, z=43.74] died, message: 'Unemployed was slain by Danben285'
+[20Feb2025 02:21:17.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Sweet Dreams]
+[20Feb2025 02:21:22.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 has made the advancement [Sweet Dreams]
+[20Feb2025 02:24:13.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danben285 lost connection: Disconnected
+[20Feb2025 02:24:13.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 left the game
+[20Feb2025 02:24:20.104] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[20Feb2025 02:24:20.154] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[20Feb2025 02:24:20.203] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[20Feb2025 02:24:20.259] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[20Feb2025 02:24:20.304] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[20Feb2025 02:24:20.353] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[20Feb2025 02:24:20.405] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[20Feb2025 02:24:20.454] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[20Feb2025 02:24:20.518] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[20Feb2025 02:24:20.553] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[20Feb2025 02:24:20.617] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[20Feb2025 02:24:20.658] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[20Feb2025 02:24:21.003] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[20Feb2025 02:24:21.003] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[20Feb2025 02:24:21.102] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[20Feb2025 02:24:21.108] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[20Feb2025 02:24:25.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danben285[/100.92.28.95:5931] logged in with entity id 10558 at (-947.657196935406, 63.0, 39.779012568672556)
+[20Feb2025 02:24:25.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 joined the game
+[20Feb2025 02:24:26.124] [Server thread/INFO] [Jade/]: Syncing config to Danben285 (47fab1b2-80b6-3887-ba44-a750ef02554d)

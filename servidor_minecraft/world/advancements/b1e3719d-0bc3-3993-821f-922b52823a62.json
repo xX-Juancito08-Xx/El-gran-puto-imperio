@@ -1277,6 +1277,7 @@
     "criteria": {
       "cooked_porkchop": "2025-02-20 01:09:37 +0000",
       "cooked_mutton": "2025-02-20 01:45:31 +0000",
+      "cooked_beef": "2025-02-20 02:19:10 +0000",
       "bread": "2025-02-20 01:49:38 +0000",
       "rotten_flesh": "2025-02-20 01:08:30 +0000",
       "cooked_chicken": "2025-02-20 01:43:06 +0000"
@@ -2711,6 +2712,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-20 02:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-02-20 01:53:25 +0000"
@@ -2813,11 +2820,23 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-02-20 02:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-02-20 01:41:51 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-02-20 02:21:38 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
@@ -2828,6 +2847,12 @@
   "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-20 02:17:55 +0000"
     },
     "done": true
   },
@@ -2846,6 +2871,12 @@
   "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-02-20 02:19:04 +0000"
     },
     "done": true
   },
@@ -2957,6 +2988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-02-20 02:20:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
@@ -2996,6 +3033,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-20 02:17:55 +0000"
     },
     "done": true
   },
@@ -3167,6 +3210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-20 02:17:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-02-20 01:59:26 +0000"
@@ -3233,6 +3282,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-20 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-20 02:20:38 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_drawer": {
     "criteria": {
       "has_terracotta": "2025-02-20 01:40:41 +0000"
@@ -3290,6 +3351,12 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-20 02:20:38 +0000"
     },
     "done": true
   },
