@@ -2597,6 +2597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-20 02:09:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-02-20 01:59:26 +0000"
@@ -2618,6 +2624,12 @@
   "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-20 02:09:28 +0000"
     },
     "done": true
   },
@@ -2912,6 +2924,12 @@
   "cfm:recipes/decorations/pink_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-20 02:09:28 +0000"
     },
     "done": true
   },
@@ -3305,6 +3323,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2025-02-20 02:09:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
@@ -3362,6 +3386,12 @@
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-20 02:09:28 +0000"
     },
     "done": true
   },
