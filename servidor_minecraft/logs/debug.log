@@ -7093,3 +7093,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [20Feb2025 23:16:24.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Feb2025 23:19:24.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ lost connection: Disconnected
 [20Feb2025 23:19:24.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ left the game
+[20Feb2025 23:21:24.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:21:24.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 23:26:24.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 23:26:24.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
