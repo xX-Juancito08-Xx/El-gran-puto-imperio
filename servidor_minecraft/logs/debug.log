@@ -7980,3 +7980,57 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [20Feb2025 00:56:25.041] [Server thread/INFO] [Jade/]: Syncing config to itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62)
 [20Feb2025 00:56:25.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Ice and Fire]
 [20Feb2025 00:56:28.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[20Feb2025 00:57:04.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[20Feb2025 00:57:05.051] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[20Feb2025 00:57:49.760] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-971, y=-48, z=292}
+[20Feb2025 00:57:49.762] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-995, y=-59, z=309}
+[20Feb2025 00:57:49.771] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-1002, y=-59, z=311}
+[20Feb2025 00:57:49.930] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-971, y=-48, z=292}
+[20Feb2025 00:57:50.180] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-971, y=-48, z=292}
+[20Feb2025 00:57:51.978] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-896, y=-33, z=272}
+[20Feb2025 00:57:52.201] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-896, y=-33, z=272}
+[20Feb2025 00:57:52.504] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-896, y=-33, z=272}
+[20Feb2025 00:57:52.519] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-883, y=-33, z=318}
+[20Feb2025 00:57:52.528] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-882, y=-35, z=303}
+[20Feb2025 00:57:52.533] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-883, y=-33, z=336}
+[20Feb2025 00:57:52.535] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-888, y=-33, z=312}
+[20Feb2025 00:57:52.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
+[20Feb2025 00:57:52.675] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-882, y=-35, z=303}
+[20Feb2025 00:57:52.791] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-882, y=-35, z=303}
+[20Feb2025 00:58:02.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Alex's Mobs]
+[20Feb2025 00:58:10.526] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[20Feb2025 00:58:10.528] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[20Feb2025 00:58:10.529] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[20Feb2025 00:58:10.529] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[20Feb2025 00:59:01.740] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[20Feb2025 00:59:02.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[20Feb2025 00:59:19.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[20Feb2025 00:59:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danben285> -943 64 41
+[20Feb2025 00:59:39.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Stone Age]
+[20Feb2025 00:59:49.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 00:59:49.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 01:00:26.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Getting an Upgrade]
+[20Feb2025 01:01:45.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-952, y=64, z=38} BlockPos{x=-954, y=62, z=38}
+[20Feb2025 01:01:46.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-952, y=64, z=38} BlockPos{x=-954, y=62, z=38}
+[20Feb2025 01:03:59.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-948, y=64, z=47} BlockPos{x=-945, y=63, z=47}
+[20Feb2025 01:04:04.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-942, y=65, z=48} BlockPos{x=-942, y=63, z=46}
+[20Feb2025 01:04:33.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-930, y=64, z=38} BlockPos{x=-931, y=64, z=39}
+[20Feb2025 01:04:33.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-930, y=64, z=38} BlockPos{x=-931, y=64, z=39}
+[20Feb2025 01:04:42.518] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[20Feb2025 01:04:49.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Feb2025 01:04:49.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Feb2025 01:05:40.221] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[20Feb2025 01:05:40.571] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[20Feb2025 01:05:40.575] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[20Feb2025 01:05:40.578] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[20Feb2025 01:05:40.584] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[20Feb2025 01:05:42.031] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[20Feb2025 01:06:48.381] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-882, y=-35, z=303}
+[20Feb2025 01:06:51.151] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-882, y=-35, z=303}
+[20Feb2025 01:06:53.457] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-896, y=-33, z=272}
+[20Feb2025 01:06:53.464] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-882, y=-35, z=303}
+[20Feb2025 01:06:53.466] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-883, y=-33, z=336}
+[20Feb2025 01:06:53.467] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-888, y=-47, z=335}
+[20Feb2025 01:06:53.557] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-883, y=-33, z=336}
+[20Feb2025 01:06:55.853] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-896, y=-33, z=272}
+[20Feb2025 01:06:58.608] [Worker-Main-7/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-896, y=-33, z=272}
