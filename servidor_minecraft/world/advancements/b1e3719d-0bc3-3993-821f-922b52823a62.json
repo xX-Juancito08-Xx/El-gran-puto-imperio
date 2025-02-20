@@ -2597,6 +2597,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
@@ -2615,9 +2621,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
     },
     "done": true
   },
@@ -2651,6 +2675,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-02-20 01:58:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
@@ -2669,6 +2699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-20 01:41:51 +0000"
@@ -2678,6 +2714,12 @@
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_terracotta": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
     },
     "done": true
   },
@@ -2711,6 +2753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-20 01:45:50 +0000"
@@ -2738,6 +2786,18 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-02-20 01:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
     },
     "done": true
   },
@@ -2777,6 +2837,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-02-20 01:45:21 +0000"
@@ -2792,6 +2858,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-02-20 02:02:03 +0000"
     },
     "done": true
   },
@@ -2825,6 +2897,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
@@ -2840,6 +2924,12 @@
   "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
     },
     "done": true
   },
@@ -2885,6 +2975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
@@ -2900,6 +2996,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-02-20 01:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-20 01:53:25 +0000"
     },
     "done": true
   },
@@ -2927,6 +3029,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/fog_diffuser": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-20 01:40:41 +0000"
@@ -2936,6 +3050,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
     },
     "done": true
   },
@@ -2975,9 +3095,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-20 01:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
     },
     "done": true
   },
@@ -2999,9 +3137,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-20 01:53:21 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_drawer": {
     "criteria": {
       "has_terracotta": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
     },
     "done": true
   },
@@ -3023,6 +3173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-20 02:01:44 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
     "criteria": {
       "has_arrow": "2025-02-20 01:43:35 +0000"
@@ -3035,9 +3191,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-20 01:52:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-02-20 01:58:03 +0000"
     },
     "done": true
   },
@@ -3053,9 +3221,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-02-20 01:52:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_kitchen_drawer": {
     "criteria": {
       "has_terracotta": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-02-20 01:58:03 +0000"
     },
     "done": true
   },
@@ -3068,6 +3254,12 @@
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
     },
     "done": true
   },
@@ -3086,6 +3278,12 @@
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-20 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-20 02:01:44 +0000"
     },
     "done": true
   },
@@ -3125,9 +3323,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-02-20 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-02-20 02:01:44 +0000"
     },
     "done": true
   },
@@ -3152,6 +3362,18 @@
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-20 01:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-20 01:53:25 +0000"
     },
     "done": true
   },

@@ -1327,7 +1327,8 @@
       "cooked_mutton": "2025-02-20 00:59:18 +0000",
       "cooked_beef": "2025-02-20 01:10:21 +0000",
       "apple": "2025-02-20 01:49:36 +0000",
-      "cooked_chicken": "2025-02-20 01:08:21 +0000"
+      "cooked_chicken": "2025-02-20 01:08:21 +0000",
+      "cooked_salmon": "2025-02-20 01:59:35 +0000"
     },
     "done": false
   },
@@ -3146,6 +3147,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-20 01:52:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-02-20 01:40:32 +0000"
@@ -3161,6 +3168,12 @@
   "cfm:recipes/decorations/cyan_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-02-20 01:54:52 +0000"
     },
     "done": true
   },
@@ -3308,9 +3321,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-02-20 01:59:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-20 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-20 01:52:57 +0000"
     },
     "done": true
   },
@@ -3368,6 +3393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-20 01:52:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-02-20 01:39:16 +0000"
@@ -3377,6 +3408,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-20 01:54:52 +0000"
     },
     "done": true
   },
@@ -3431,6 +3468,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-02-20 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-20 01:52:57 +0000"
     },
     "done": true
   },
@@ -3494,6 +3537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-20 01:52:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-20 01:40:32 +0000"
@@ -3515,6 +3564,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-20 01:44:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-02-20 01:59:07 +0000"
     },
     "done": true
   },
@@ -3569,6 +3624,12 @@
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-20 01:52:57 +0000"
     },
     "done": true
   },
@@ -3635,6 +3696,12 @@
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_stone": "2025-02-20 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-20 01:54:52 +0000"
     },
     "done": true
   },
