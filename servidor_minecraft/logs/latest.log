@@ -311,3 +311,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Feb2025 06:49:44.066] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:aqua_affinity_underwater] from power ResourceKey[apoli:configured_power / origins:aqua_affinity]
 [21Feb2025 06:49:44.066] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:aqua_affinity_ungrounded] from power ResourceKey[apoli:configured_power / origins:aqua_affinity]
 [21Feb2025 06:49:44.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Set origin of Danben285 in layer Origin to Merling.]
+[21Feb2025 07:01:13.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ has made the advancement [Enchanter]
+[21Feb2025 07:02:31.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Set origin of Danben285 in layer Origin to Human.]
+[21Feb2025 07:02:39.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[21Feb2025 07:02:53.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Set own game mode to Creative Mode]
