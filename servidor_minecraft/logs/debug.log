@@ -7552,3 +7552,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Feb2025 06:40:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Teleported Danben285 to itstomii_]
 [21Feb2025 06:41:01.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Feb2025 06:41:02.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 06:44:34.824] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[21Feb2025 06:45:02.014] [Worker-Main-28/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Feb2025 06:46:02.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 06:46:02.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 06:49:44.065] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:water_vision_toggle] from power ResourceKey[apoli:configured_power / origins:water_vision]
+[21Feb2025 06:49:44.065] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:water_vision_vision] from power ResourceKey[apoli:configured_power / origins:water_vision]
+[21Feb2025 06:49:44.066] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:aqua_affinity_underwater] from power ResourceKey[apoli:configured_power / origins:aqua_affinity]
+[21Feb2025 06:49:44.066] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:aqua_affinity_ungrounded] from power ResourceKey[apoli:configured_power / origins:aqua_affinity]
+[21Feb2025 06:49:44.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Set origin of Danben285 in layer Origin to Merling.]
+[21Feb2025 06:51:02.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Feb2025 06:51:02.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Feb2025 06:53:17.710] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot

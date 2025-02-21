@@ -306,3 +306,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Feb2025 06:38:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Teleported Danben285 to itstomii_]
 [21Feb2025 06:38:38.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ moved wrongly!
 [21Feb2025 06:40:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Teleported Danben285 to itstomii_]
+[21Feb2025 06:49:44.065] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:water_vision_toggle] from power ResourceKey[apoli:configured_power / origins:water_vision]
+[21Feb2025 06:49:44.065] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:water_vision_vision] from power ResourceKey[apoli:configured_power / origins:water_vision]
+[21Feb2025 06:49:44.066] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:aqua_affinity_underwater] from power ResourceKey[apoli:configured_power / origins:aqua_affinity]
+[21Feb2025 06:49:44.066] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:aqua_affinity_ungrounded] from power ResourceKey[apoli:configured_power / origins:aqua_affinity]
+[21Feb2025 06:49:44.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Set origin of Danben285 in layer Origin to Merling.]
