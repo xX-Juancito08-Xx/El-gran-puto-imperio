@@ -256,3 +256,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Feb2025 06:05:48.251] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [21Feb2025 06:05:48.276] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [21Feb2025 06:05:48.281] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[21Feb2025 06:24:56.299] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Feb2025 06:24:56.321] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Feb2025 06:24:56.361] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Feb2025 06:24:56.417] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Feb2025 06:24:56.466] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Feb2025 06:24:56.518] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Feb2025 06:24:56.562] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Feb2025 06:24:56.619] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Feb2025 06:24:56.665] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Feb2025 06:24:56.717] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Feb2025 06:24:56.760] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Feb2025 06:24:56.817] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Feb2025 06:24:57.152] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Feb2025 06:24:57.153] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Feb2025 06:24:57.224] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Feb2025 06:24:57.247] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Feb2025 06:25:01.485] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[21Feb2025 06:25:01.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itstomii_[/100.121.198.2:56607] logged in with entity id 58 at (1416.699999988079, -40.0, -1310.699999988079)
+[21Feb2025 06:25:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ joined the game
+[21Feb2025 06:25:02.292] [Server thread/INFO] [Jade/]: Syncing config to itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62)
+[21Feb2025 06:25:05.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[21Feb2025 06:25:26.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5648ms or 112 ticks behind
+[21Feb2025 06:28:37.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21Feb2025 06:29:09.341] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[21Feb2025 06:29:09.341] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[21Feb2025 06:29:09.345] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[21Feb2025 06:31:08.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1262, y=-8, z=-1544} BlockPos{x=1266, y=-8, z=-1551}
+[21Feb2025 06:35:30.741] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Feb2025 06:35:30.747] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Feb2025 06:35:30.802] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Feb2025 06:35:30.847] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Feb2025 06:35:30.918] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Feb2025 06:35:30.965] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Feb2025 06:35:31.002] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Feb2025 06:35:31.049] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Feb2025 06:35:31.096] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Feb2025 06:35:31.175] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Feb2025 06:35:31.219] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Feb2025 06:35:31.267] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Feb2025 06:35:31.598] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Feb2025 06:35:31.599] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Feb2025 06:35:31.601] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Feb2025 06:35:31.712] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Feb2025 06:35:36.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danben285[/100.92.28.95:27022] logged in with entity id 3522 at (1308.777463847613, 33.0, -1152.4105913267895)
+[21Feb2025 06:35:36.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 joined the game
+[21Feb2025 06:35:36.691] [Server thread/INFO] [Jade/]: Syncing config to Danben285 (47fab1b2-80b6-3887-ba44-a750ef02554d)
+[21Feb2025 06:35:39.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[21Feb2025 06:38:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Teleported Danben285 to itstomii_]
+[21Feb2025 06:38:38.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ moved wrongly!
+[21Feb2025 06:40:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danben285: Teleported Danben285 to itstomii_]
