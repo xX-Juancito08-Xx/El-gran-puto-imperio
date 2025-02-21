@@ -655,7 +655,9 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-02-20 04:46:34 +0000",
       "minecraft:sunflower_plains": "2025-02-20 00:50:27 +0000",
+      "minecraft:bamboo_jungle": "2025-02-21 07:07:23 +0000",
       "minecraft:beach": "2025-02-20 05:37:11 +0000",
+      "minecraft:dark_forest": "2025-02-21 07:06:07 +0000",
       "minecraft:sparse_jungle": "2025-02-20 05:57:51 +0000",
       "minecraft:river": "2025-02-20 00:31:24 +0000",
       "minecraft:lukewarm_ocean": "2025-02-20 04:51:28 +0000",
@@ -6752,6 +6754,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-21 07:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-21 06:44:40 +0000"
@@ -6761,6 +6769,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 06:46:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-02-21 07:07:07 +0000"
     },
     "done": true
   },
@@ -6791,6 +6805,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-21 06:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-21 07:09:35 +0000"
     },
     "done": true
   },
@@ -6836,9 +6856,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-21 07:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-21 06:44:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-02-21 07:06:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-02-21 07:06:59 +0000"
     },
     "done": true
   },
@@ -6914,6 +6952,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-02-21 07:06:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 06:46:33 +0000"
@@ -6959,6 +7003,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 06:46:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-02-21 07:06:59 +0000"
     },
     "done": true
   },
@@ -7055,6 +7105,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-21 06:46:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-02-21 07:07:07 +0000"
     },
     "done": true
   },
