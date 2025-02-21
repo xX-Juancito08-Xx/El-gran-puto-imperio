@@ -1185,6 +1185,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-02-20 04:46:26 +0000",
       "minecraft:sunflower_plains": "2025-02-20 01:12:20 +0000",
+      "minecraft:birch_forest": "2025-02-21 07:43:09 +0000",
       "minecraft:windswept_hills": "2025-02-20 04:56:23 +0000",
       "minecraft:beach": "2025-02-20 06:34:22 +0000",
       "minecraft:sparse_jungle": "2025-02-20 05:57:59 +0000",
@@ -1197,6 +1198,7 @@
       "minecraft:warm_ocean": "2025-02-20 05:01:19 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-20 04:56:31 +0000",
       "minecraft:flower_forest": "2025-02-20 01:08:13 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-21 07:42:57 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-20 04:56:20 +0000",
       "minecraft:savanna": "2025-02-20 05:41:42 +0000",
       "minecraft:plains": "2025-02-20 02:53:04 +0000"
@@ -6854,6 +6856,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-21 07:37:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-21 07:37:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-21 07:37:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-21 06:58:15 +0000"
@@ -7010,6 +7030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-21 07:37:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-21 07:01:13 +0000"
@@ -7109,6 +7135,12 @@
   "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
     "criteria": {
       "has_moss_block": "2025-02-21 07:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-21 07:37:33 +0000"
     },
     "done": true
   },
