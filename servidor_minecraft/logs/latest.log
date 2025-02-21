@@ -406,3 +406,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [21Feb2025 07:55:00.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [21Feb2025 07:55:20.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ lost connection: Disconnected
 [21Feb2025 07:55:20.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ left the game
+[21Feb2025 07:55:45.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[21Feb2025 07:58:03.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[21Feb2025 07:59:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danben285> oaoahoahoah
+[21Feb2025 08:00:24.852] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[21Feb2025 08:00:24.880] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[21Feb2025 08:00:24.916] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[21Feb2025 08:00:24.996] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[21Feb2025 08:00:25.078] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[21Feb2025 08:00:25.160] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[21Feb2025 08:00:25.220] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[21Feb2025 08:00:25.274] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[21Feb2025 08:00:25.338] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[21Feb2025 08:00:25.394] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[21Feb2025 08:00:25.432] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[21Feb2025 08:00:25.498] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[21Feb2025 08:00:25.856] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[21Feb2025 08:00:25.857] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[21Feb2025 08:00:25.986] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[21Feb2025 08:00:25.992] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[21Feb2025 08:00:29.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: itstomii_[/100.121.198.2:58263] logged in with entity id 39402 at (1155.0274069437487, 64.0, -1219.5211763330026)
+[21Feb2025 08:00:30.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ joined the game
+[21Feb2025 08:00:30.209] [Server thread/INFO] [Jade/]: Syncing config to itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62)
+[21Feb2025 08:02:48.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: itstomii_ lost connection: Disconnected
+[21Feb2025 08:02:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ left the game
+[21Feb2025 08:02:59.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danben285 lost connection: Disconnected
+[21Feb2025 08:02:59.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 left the game
