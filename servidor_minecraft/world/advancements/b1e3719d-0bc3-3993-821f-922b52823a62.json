@@ -7174,5 +7174,11 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-02-22 09:22:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
