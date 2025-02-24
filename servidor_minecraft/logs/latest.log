@@ -303,3 +303,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 [24Feb2025 07:47:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: itstomii_ joined the game
 [24Feb2025 07:47:42.149] [Server thread/INFO] [Jade/]: Syncing config to itstomii_ (b1e3719d-0bc3-3993-821f-922b52823a62)
 [24Feb2025 07:47:44.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[24Feb2025 07:52:31.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[24Feb2025 07:54:00.424] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[24Feb2025 07:54:00.436] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[24Feb2025 07:54:00.507] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[24Feb2025 07:54:00.565] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[24Feb2025 07:54:00.607] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[24Feb2025 07:54:00.651] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[24Feb2025 07:54:00.689] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[24Feb2025 07:54:00.728] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[24Feb2025 07:54:00.769] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[24Feb2025 07:54:00.803] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[24Feb2025 07:54:00.840] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[24Feb2025 07:54:00.890] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[24Feb2025 07:54:01.216] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[24Feb2025 07:54:01.218] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[24Feb2025 07:54:01.228] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[24Feb2025 07:54:01.278] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[24Feb2025 07:54:06.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Danben285[/100.92.28.95:53650] logged in with entity id 2523 at (1157.6727618953926, 63.0, -1212.2118244858361)
+[24Feb2025 07:54:06.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 joined the game
+[24Feb2025 07:54:06.671] [Server thread/INFO] [Jade/]: Syncing config to Danben285 (47fab1b2-80b6-3887-ba44-a750ef02554d)
+[24Feb2025 07:54:11.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[24Feb2025 07:59:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danben285 has made the advancement [Enchanter]

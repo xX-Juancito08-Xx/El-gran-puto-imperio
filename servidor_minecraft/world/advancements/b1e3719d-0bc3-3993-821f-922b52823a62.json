@@ -7186,5 +7186,17 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_orange_sand": "2025-02-24 07:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-24 07:58:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
