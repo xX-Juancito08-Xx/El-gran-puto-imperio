@@ -3511,7 +3511,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-02-20 02:21:38 +0000"
+      "sugar_cane": "2025-02-20 02:21:38 +0000",
+      "nether_wart": "2025-03-02 22:41:44 +0000"
     },
     "done": false
   },
@@ -7552,6 +7553,12 @@
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-02-24 09:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-03-02 22:41:44 +0000"
     },
     "done": true
   },
